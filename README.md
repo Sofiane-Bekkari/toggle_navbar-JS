@@ -1,3 +1,3 @@
-# Toggle Navbar project
-## use toggle to add class for specific class
-### one page use meadia query 900px / 768px   
+## Toggle Navbar project JS
+### use toggle to add class for specific class
+### one page use media query 900px/768px   
